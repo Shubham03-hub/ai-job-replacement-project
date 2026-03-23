@@ -123,6 +123,26 @@ ai-job-replacement-project/
 
 
 ---
+## Project Screenshots
+
+### Power BI Dashboard
+![Dashboard 1](images/dashboard_1.png)
+![Dashboard 2](images/dashboard_2.png)
+
+### Risk Distribution
+![Risk Distribution](images/risk_distribution.png)
+
+### Industry vs Risk
+![Industry vs Risk](images/industry_vs_risk.png)
+
+### AI Replacement Score vs Risk
+![AI Replacement vs Risk](images/ai_replacement_score_vs_risk.png)
+
+### Correlation Heatmap
+![Heatmap](images/heatmap_1.png)
+![Heatmap](images/heatmap_2.png)  
+
+
 
 ## Key Insights from Analysis
 - Jobs with higher automation risk percentage are more likely to fall into the high-risk category.
