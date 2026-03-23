@@ -99,26 +99,28 @@ The application then predicts whether the job risk is Low, Medium, or High.
 ai-job-replacement-project/
 │
 ├── data/
-│ ├── raw/
-│ └── processed/
-│ └── cleaned.csv
+│   ├── raw/
+│   └── processed/
+│       └── cleaned.csv
 │
 ├── notebooks/
-│ ├── eda.ipynb
-│ └── ml_model.ipynb
+│   ├── eda.ipynb
+│   └── ml_model.ipynb
 │
 ├── src/
-│ └── train.py
+│   └── train.py
 │
 ├── models/
-│ └── model.pkl
+│   └── model.pkl
 │
 ├── app/
-│ └── app.py
+│   └── app.py
 │
 ├── dashboard/
-│ └── powerbi.pbix
+│   └── powerbi.pbix
 │
+├── requirements.txt
+├── .gitignore
 └── README.md
 
 
