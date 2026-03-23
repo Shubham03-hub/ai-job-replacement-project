@@ -96,7 +96,6 @@ The application then predicts whether the job risk is Low, Medium, or High.
 ---
 
 ## Project Structure
-## Project Structure
 
 - ai-job-replacement-project/
   - data/
@@ -117,7 +116,6 @@ The application then predicts whether the job risk is Low, Medium, or High.
   - requirements.txt
   - .gitignore
   - README.md
-
 ---
 ## Project Screenshots
 
