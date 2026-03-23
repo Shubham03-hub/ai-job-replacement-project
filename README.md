@@ -94,28 +94,28 @@ The user inputs:
 The application then predicts whether the job risk is Low, Medium, or High.
 
 ---
-
-## Project Structure
-
+## Project structure
 - ai-job-replacement-project/
   - data/
     - raw/
     - processed/
     - cleaned.csv
-    - notebooks/
+  - notebooks/
+    - eda.ipynb
+    - ml_model.ipynb
   - src/
     - train.py
-    - models/
-      - model.pkl
-    - app/
-      - app.py
-    - dashboard/
-      - dashboard.py
-    - requirements.txt
+  - models/
+    - model.pkl
+  - app/
+    - app.py
+  - dashboard/
+    - dashboard.py
   - powerbi.pbix
   - requirements.txt
   - .gitignore
   - README.md
+  - 
 ---
 ## Project Screenshots
 
